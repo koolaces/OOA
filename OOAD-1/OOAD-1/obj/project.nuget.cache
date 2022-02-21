@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s1Y/DT+Ug8eUBlu/BZXSRwnXneaHVGFjoICuRMzyc1JTpxsa1VG5N4wK6Wqx6cxQwZHDSHi7Y8DcM3tc0coEEg==",
+  "dgSpecHash": "tHz0kRJ2NVkGVb0Uq8/HW5Xmy/Nm7LlIotyzLTxEuULUKJJ1EVYtLK6aeCyD4h3exLWIMIl8XNPbIt/BZ/4OUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\n34-8\\Desktop\\OOAD1\\OOA\\OOAD-1\\OOAD-1\\OOAD-1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\n34-8\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
-    "C:\\Users\\n34-8\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\n34-8\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\n34-8\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\kiril\\Desktop\\OAAD\\OOA\\OOAD-1\\OOAD-1\\OOAD-1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
