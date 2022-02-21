@@ -7,6 +7,7 @@ namespace OOAD_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int a = 5 , b = 228;
         }
     }
 }
