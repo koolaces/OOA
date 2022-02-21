@@ -9,6 +9,7 @@ namespace OOAD_1
             Console.WriteLine("Hello World!");
             int a = 5 , b = 228;
             Console.WriteLine(a+b);
+            global::System.Console.WriteLine("Суета наведена");
         }
     }
 }
